@@ -87,7 +87,7 @@ if &t_Co >= 256 || has("gui_running")
     hi TabLineFill    ctermbg=bg ctermfg=8    cterm=NONE      guibg=bg      guifg=#645d59 gui=NONE
     hi TabLineSel     ctermbg=bg ctermfg=2    cterm=bold      guibg=bg      guifg=#7bb292 gui=bold
     hi Title          ctermbg=bg ctermfg=15   cterm=NONE      guibg=bg      guifg=#c5beba gui=NONE
-    hi CursorLine     ctermbg=8  ctermfg=NONE cterm=NONE      guibg=#645d59 guifg=NONE    gui=NONE
+    hi CursorLine     ctermbg=23  ctermfg=NONE cterm=NONE      guibg=#645d59 guifg=NONE    gui=NONE
     hi LineNr         ctermbg=bg ctermfg=8    cterm=NONE      guibg=bg      guifg=#645d59 gui=NONE
     hi CursorLineNr   ctermbg=bg ctermfg=2    cterm=bold      guibg=bg      guifg=#7bb292 gui=bold
     hi helpLeadBlank  ctermbg=bg ctermfg=NONE cterm=NONE      guibg=bg      guifg=NONE    gui=NONE
